@@ -1,25 +1,22 @@
-# 01 - LED Blink
+# 01 - Blinking LED
 
-Menyalakan dan mematikan LED bergantian setiap 1 detik.
+Turning an LED on and off, alternating every 1 second.
 
-## Komponen
+## Components
 - Arduino Uno
 - LED
-- Resistor 220Ω
+- 220Ω Resistor
 
-## Rangkaian
-Pin 13 → Resistor → Anoda LED → Katoda LED → GND
+## Circuit
+Pin 13 → Resistor → LED Anode → LED Cathode → GND
 
-![Rangkaian](images/rangkaian.png)
+![Circuit](ss1.jpeg)
 
-## Kode
-Lihat [sketch.ino](sketch.ino)
-
-## Konsep yang dipelajari
+## Concepts Learned
 `setup()`, `loop()`, `pinMode`, `digitalWrite`, `delay`
 
-## Masalah & solusi
-- (contoh: LED tidak menyala karena anoda dan katoda tertukar)
+## Issues & Solutions
+- (e.g., LED does not turn on because the anode and cathode are swapped)
 
-## Simulasi
-[Buka di Wokwi](tempel-link-share-wokwi)
+## Simulation
+[Open in Wokwi](https://wokwi.com/projects/479864420551956481)
