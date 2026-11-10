@@ -16,7 +16,7 @@ Pin 13 → Resistor → LED Anode → LED Cathode → GND
 `setup()`, `loop()`, `pinMode`, `digitalWrite`, `delay`
 
 ## Issues & Solutions
-- (e.g., LED does not turn on because the anode and cathode are swapped)
+- (LED does not turn on because the anode and cathode are swapped)
 
 ## Simulation
 [Open in Wokwi](https://wokwi.com/projects/479864420551956481)
