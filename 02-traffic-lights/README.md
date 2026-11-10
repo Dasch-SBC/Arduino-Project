@@ -8,9 +8,9 @@ A traffic light simulation that cycles through red, green, and yellow, then repe
 - 3 × 220Ω resistors
 
 ## Circuit
-Pin 8 → Resistor → Anode → Cathode → GND 
-Pin 9 → Resistor → Anode → Cathode → GND 
-Pin 10 → Resistor → Anode → Cathode → GND 
+- Pin 8 → Resistor → Anode → Cathode → GND 
+- Pin 9 → Resistor → Anode → Cathode → GND 
+- Pin 10 → Resistor → Anode → Cathode → GND 
 
 ![Circuit](ss2.png)
 
