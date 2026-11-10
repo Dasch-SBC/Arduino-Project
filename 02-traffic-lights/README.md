@@ -25,4 +25,4 @@ Pin 10 → Resistor → Anode → Cathode → GND
 - `not declared` error: check the capitalization of the variable names.
 
 ## Simulation
-[Open in Wokwi](paste-wokwi-share-link)
+[Open in Wokwi](https://wokwi.com/projects/480282080867624961)
